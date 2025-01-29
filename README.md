@@ -1,3 +1,0 @@
-# demo-repo
-
-demonstration,
